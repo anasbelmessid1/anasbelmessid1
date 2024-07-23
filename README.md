@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/k5GcybwY1yybmGwrFg/giphy.gif" alt="MasterHead">
+</p>
+
+
 ## Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm I'm Anas</h1>
