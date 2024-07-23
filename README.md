@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/k5GcybwY1yybmGwrFg/giphy.gif" alt="MasterHead">
 </p>
-
-
-## Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm I'm Anas</h1>
 <h3 align="center">An AI Enthusiast from Morocco !</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
