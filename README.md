@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **2 integrated Chatbots for Les Domaines Agricoles**
+- 🔭 I’m currently using specialized AI algorithms to for the benefit of startups.
 
 - 🌱 I’m currently learning **Generative AI, and Stable diffusion**
 
