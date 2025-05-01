@@ -8,9 +8,7 @@
 
 
 
-- 🔭 I’m currently using specialized AI algorithms to for the benefit of startups.
-
-- 🌱 I’m currently learning **Generative AI, and Stable diffusion**
+- 🔭 I’m currently applying my academic background in AI alongside my interest in marketing to create practical, high-impact solutions for startups.
 
 - 💬 Ask me about **anything I know, and I'll gladly share my knowledge with you.**
 
