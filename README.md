@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently applying my academic background in AI alongside my interest in marketing to create practical, high-impact solutions for startups.
+- 🔭 Currently using AI + marketing to build for startups.
 
 - 💬 Ask me about **anything I know, and I'll gladly share my knowledge with you.**
 
